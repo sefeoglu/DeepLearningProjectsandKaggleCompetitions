@@ -1,6 +1,6 @@
 # DeepLearning Projects and Kaggle Competitions
 
-This repository consists of the projects that completed under the Competitive Programming For Deep Learning 
+This repository consists of the projects that completed under the Competitive Programming with Deep Learning at HPI in Potsdam.
 
 # Small Projects
 * 1.) [😷  Classification](https://github.com/sefeoglu/DeepLearningProjectsandKaggleCompetitions/blob/master/SimpleMaskClassification.ipynb): classifies people with/whitout a mask.
