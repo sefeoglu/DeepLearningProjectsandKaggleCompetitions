@@ -11,4 +11,4 @@ This repository consists of the projects that completed under the Competitive Pr
 
 
 * 1.) [Mask Detection with Detectron2](https://github.com/sefeoglu/DeepLearningProjectsandKaggleCompetitions/blob/master/Mask_Detection_KaggleCompetition.ipynb)
-* 2.) [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/sefika/vinbigdata-competition-overfitters)
+* 2.) [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/sefika/vinbigdata-competition-overfitters) with Detectron 2
